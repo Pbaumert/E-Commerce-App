@@ -19,7 +19,6 @@ This is the back-end for an e-commerce application, providing RESTful API functi
     - [Categories](#categories)
     - [Products](#products)
     - [Tags](#tags)
-  - [Screenshots](#screenshots)
   - [License](#license)
 
 ## Installation
@@ -78,9 +77,6 @@ This is the back-end for an e-commerce application, providing RESTful API functi
 - `POST /api/tags`: Create a new tag
 - `PUT /api/tags/:id`: Update tag by ID
 - `DELETE /api/tags/:id`: Delete tag by ID
-
-## Screenshots
-Include screenshots of Insomnia testing the routes if possible.
 
 ## License
 MIT License.
